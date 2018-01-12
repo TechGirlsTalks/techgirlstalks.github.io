@@ -1,0 +1,35 @@
+# Profile information
+name: Tech Girls Talks
+title: TechGirlsTalks - Unindo mulheres de todas as comunidades.
+description: > # this means to ignore newlines until "baseurl:"
+ TechGirlsTalks: Unindo mulheres de todas as comunidades. 
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "techgirlstalks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social
+facebook: #Add your Facebook
+twitter: https://twitter.com/TechGirlsTalks
+github: https://github.com/orgs/TechGirlsTalks/
+
+# Contact form
+email: #your-email@domain.com
+
+# Comments
+discus-identifier: # Add your Disqus identifier
+
+# Paginate
+paginate: 5
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include: [_pages]
