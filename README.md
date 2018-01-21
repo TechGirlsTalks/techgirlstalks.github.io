@@ -1,5 +1,5 @@
 Tech Girls Talks
 =============================
 
-# Visite o nosso site! https://techgirlstalks.github.io/
+## Visite o nosso site! https://techgirlstalks.github.io/
 
