@@ -10,12 +10,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "techgirlstalks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: #Add your Facebook
-twitter: https://twitter.com/TechGirlsTalks
-github: https://github.com/orgs/TechGirlsTalks/
+facebook: techgirls.talks.perfil
+twitter: TechGirlsTalks
+github: TechGirlsTalks
 
 # Contact form
-email: #your-email@domain.com
+email: techgirlstalks@gmail.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier
